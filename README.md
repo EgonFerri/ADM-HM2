@@ -11,7 +11,8 @@ The data in usage are available on [Yellow cabs data](http://www.nyc.gov/html/tl
 ## Script descriptions
 
 1. __`HM2_OFFICIALFILE.py`__: 
-	> This script provides the code of our analisys.
-
+	> This script provides the code of our analisys. For a more tidy visualization just click [Here](http://nbviewer.jupyter.org/github/samin91/ADM-HM2/blob/master/HMW2_OFFICIALFILE.ipynb).
 2. __`Chorophletmaps`__: 
 	> This folder contains maps from crq2 (explaned in the official file)
+    
+![](map.png?raw=true)

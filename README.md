@@ -15,4 +15,4 @@ The data in usage are available on [Yellow cabs data](http://www.nyc.gov/html/tl
 2. __`Chorophletmaps`__: 
 	> This folder contains maps from crq2 (explaned in the official file)
     
-![](map.png?raw=true)
+![](map.PNG?raw=true)
